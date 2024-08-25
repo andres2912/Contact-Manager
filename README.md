@@ -21,7 +21,7 @@ bash
 
 
 Navigate to the project directory:
-cd contact-manager
+`cd contact-manager`
 Compile the project and run it using your preferred IDE or command line.
 
 ## Usage
