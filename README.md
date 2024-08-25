@@ -16,8 +16,8 @@
 ## Installation
 
 Clone the repository to your local machine:
-``` bash
-git clone https://github.com/yourusername/contact-manager.git
+bash
+`git clone https://github.com/yourusername/contact-manager.git`
 
 
 Navigate to the project directory:
