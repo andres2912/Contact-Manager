@@ -3,7 +3,7 @@ package models;
 import java.util.Scanner;
 
 public class Input {
-    private static final Integer MAX_LENGTH_VALIDATION = 5;
+    private static final Integer MAX_LENGTH_VALIDATION = 11;
 
     /**
      * This method prompts the user for input and converts it to uppercase if 
